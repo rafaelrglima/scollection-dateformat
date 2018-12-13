@@ -1,0 +1,15 @@
+[
+{ "_id" : "5981e09546f9623f1f1e1f7a", "t" : "short", "f" : "MM.dd.yy" },
+{ "_id" : "598206c146f9623f1f1e1f7c", "t" : "short", "f" : "dd.MM.yy" },
+{ "_id" : "598206ea46f9623f1f1e1f7d", "t" : "short", "f" : "yy.MM.dd" },
+{ "_id" : "5982071046f9623f1f1e1f7e", "t" : "medium", "f" : "MM.dd.yyyy" },
+{ "_id" : "5982071f46f9623f1f1e1f7f", "t" : "medium", "f" : "dd.MM.yyyy" },
+{ "_id" : "5982072946f9623f1f1e1f80", "t" : "medium", "f" : "yyyy.MM.dd" },
+{ "_id" : "5982074746f9623f1f1e1f82", "t" : "long", "f" : "dd MM yyy" },
+{ "_id" : "5982074746f9623f1f1e1f83", "t" : "long", "f" : "dd MMMM yyyy" },
+{ "_id" : "5982074746f9623f1f1e1f84", "t" : "long", "f" : "MMMM dd, yyyy" },
+{ "_id" : "5982074746f9623f1f1e1f85", "t" : "long", "f" : "EEE, MMMM dd, yyyy" },
+{ "_id" : "5982074746f9623f1f1e1f86", "t" : "long", "f" : "EEEEE, MMMM dd, yyyy" },
+{ "_id" : "5982075146f9623f1f1e1f87", "t" : "long", "f" : "MMMM dd, yyyy" },
+{ "_id" : "5982086346f9623f1f1e1f88", "t" : "long", "f" : "yyyy MM dd" }
+]
